@@ -252,11 +252,13 @@
 
     fetch('https://raw.githubusercontent.com/parismor/skills-card-sorts/main/skills_cards.json')
       .then(r => r.json())
-      .then(values => {
-        allValues = values.sort((a, b) => a.name.localeCompare(b.name)).reverse();
-        renderCards(allValues);
-        checkProgress(); 
-      });
+     .then(values => {
+  allValues = values.map(v => ({ name: v.skill, desc: '' }))
+                    .sort((a, b) => a.name.localeCompare(b.name))
+                    .reverse();
+  renderCards(allValues);
+  checkProgress(); 
+});
 
     function renderCards(values) {
       cardStack.innerHTML = '';
