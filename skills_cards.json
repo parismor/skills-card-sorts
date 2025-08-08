@@ -1,0 +1,334 @@
+[
+  {
+    "id": 1,
+    "skill": "Coaching or mentoring others"
+  },
+  {
+    "id": 2,
+    "skill": "Teaching, training or facilitation"
+  },
+  {
+    "id": 3,
+    "skill": "Public speaking or presenting"
+  },
+  {
+    "id": 4,
+    "skill": "Building rapport and trust"
+  },
+  {
+    "id": 5,
+    "skill": "Negotiating or resolving conflict"
+  },
+  {
+    "id": 6,
+    "skill": "Leading people or teams"
+  },
+  {
+    "id": 7,
+    "skill": "Collaborating across teams or disciplines"
+  },
+  {
+    "id": 8,
+    "skill": "Writing for different audiences (reports, content, copy)"
+  },
+  {
+    "id": 9,
+    "skill": "Persuading, negotiating, or mediating to reach shared outcomes"
+  },
+  {
+    "id": 10,
+    "skill": "Generating new ideas or concepts"
+  },
+  {
+    "id": 11,
+    "skill": "Designing visual content or branding"
+  },
+  {
+    "id": 12,
+    "skill": "Communicating through photography, illustration, or video"
+  },
+  {
+    "id": 13,
+    "skill": "Crafting or producing physical artwork or products"
+  },
+  {
+    "id": 14,
+    "skill": "Thinking outside the box and sparking ideas with others"
+  },
+  {
+    "id": 15,
+    "skill": "Using design software or creative tools"
+  },
+  {
+    "id": 16,
+    "skill": "Storytelling and shaping narratives (written or visual)"
+  },
+  {
+    "id": 17,
+    "skill": "Building, repairing or assembling physical objects"
+  },
+  {
+    "id": 18,
+    "skill": "Operating tools, equipment or machinery"
+  },
+  {
+    "id": 19,
+    "skill": "Cooking or preparing food"
+  },
+  {
+    "id": 20,
+    "skill": "Caring for animals or cultivating plants"
+  },
+  {
+    "id": 21,
+    "skill": "Using hand-eye coordination and physical skill"
+  },
+  {
+    "id": 22,
+    "skill": "Healing or providing hands-on care"
+  },
+  {
+    "id": 23,
+    "skill": "Making or crafting things from materials"
+  },
+  {
+    "id": 24,
+    "skill": "Working with data and digital tools"
+  },
+  {
+    "id": 25,
+    "skill": "Using or adapting AI tools (like ChatGPT, design assistants, automation platforms)"
+  },
+  {
+    "id": 26,
+    "skill": "Learning how to prompt or guide AI systems"
+  },
+  {
+    "id": 27,
+    "skill": "Managing digital projects or workflows"
+  },
+  {
+    "id": 28,
+    "skill": "Creating content with multimedia tools"
+  },
+  {
+    "id": 29,
+    "skill": "Using tech to enhance productivity or solve problems"
+  },
+  {
+    "id": 30,
+    "skill": "Investigating and analysing problems"
+  },
+  {
+    "id": 31,
+    "skill": "Finding patterns or diagnosing root causes"
+  },
+  {
+    "id": 32,
+    "skill": "Making decisions with evidence"
+  },
+  {
+    "id": 33,
+    "skill": "Evaluating processes or systems"
+  },
+  {
+    "id": 34,
+    "skill": "Innovating or improving how things work"
+  },
+  {
+    "id": 35,
+    "skill": "Synthesising complex information"
+  },
+  {
+    "id": 36,
+    "skill": "Collecting and organising data"
+  },
+  {
+    "id": 37,
+    "skill": "Analysing quantitative or qualitative research"
+  },
+  {
+    "id": 38,
+    "skill": "Writing reports, publications, or documentation"
+  },
+  {
+    "id": 39,
+    "skill": "Editing and proofreading"
+  },
+  {
+    "id": 40,
+    "skill": "Conducting literature reviews or policy research"
+  },
+  {
+    "id": 41,
+    "skill": "Interpreting technical or legal information"
+  },
+  {
+    "id": 42,
+    "skill": "Managing projects, events, or programmes"
+  },
+  {
+    "id": 43,
+    "skill": "Planning and improving systems or processes"
+  },
+  {
+    "id": 44,
+    "skill": "Setting goals and strategic direction"
+  },
+  {
+    "id": 45,
+    "skill": "Leading people or teams"
+  },
+  {
+    "id": 46,
+    "skill": "Making high-level decisions"
+  },
+  {
+    "id": 47,
+    "skill": "Providing advice, consulting, or guidance"
+  },
+  {
+    "id": 48,
+    "skill": "Managing budgets, resources, or operations"
+  },
+  {
+    "id": 49,
+    "skill": "Providing expert advice, guidance, or consulting support"
+  },
+  {
+    "id": 50,
+    "skill": "Promoting ideas, products or services"
+  },
+  {
+    "id": 51,
+    "skill": "Building external relationships"
+  },
+  {
+    "id": 52,
+    "skill": "Managing client or stakeholder communications"
+  },
+  {
+    "id": 53,
+    "skill": "Selling or fundraising"
+  },
+  {
+    "id": 54,
+    "skill": "Organising public-facing campaigns or events"
+  },
+  {
+    "id": 55,
+    "skill": "Understanding emotions and emotional cues"
+  },
+  {
+    "id": 56,
+    "skill": "Practising self-awareness and self-regulation"
+  },
+  {
+    "id": 57,
+    "skill": "Supporting others' wellbeing in teams or communities"
+  },
+  {
+    "id": 58,
+    "skill": "Fostering empathy and psychological safety in collaboration"
+  },
+  {
+    "id": 59,
+    "skill": "Picking up new tools or skills quickly"
+  },
+  {
+    "id": 60,
+    "skill": "Adapting to changing priorities or environments"
+  },
+  {
+    "id": 61,
+    "skill": "Being open to feedback and ongoing development"
+  },
+  {
+    "id": 62,
+    "skill": "Staying curious and engaged in unfamiliar situations"
+  },
+  {
+    "id": 63,
+    "skill": "Identifying and pursuing new opportunities"
+  },
+  {
+    "id": 64,
+    "skill": "Pitching or advocating for ideas"
+  },
+  {
+    "id": 65,
+    "skill": "Creating or managing your own projects or ventures"
+  },
+  {
+    "id": 66,
+    "skill": "Taking initiative and calculated risks"
+  },
+  {
+    "id": 67,
+    "skill": "Working effectively in remote or hybrid teams"
+  },
+  {
+    "id": 68,
+    "skill": "Communicating across time zones and digital platforms"
+  },
+  {
+    "id": 69,
+    "skill": "Navigating cultural differences with respect"
+  },
+  {
+    "id": 70,
+    "skill": "Leading or participating in virtual collaborations"
+  },
+  {
+    "id": 71,
+    "skill": "Using data responsibly and ethically"
+  },
+  {
+    "id": 72,
+    "skill": "Understanding AI tools and their limitations"
+  },
+  {
+    "id": 73,
+    "skill": "Recognising bias in digital systems"
+  },
+  {
+    "id": 74,
+    "skill": "Managing digital privacy and consent"
+  },
+  {
+    "id": 75,
+    "skill": "Understanding basic cybersecurity practices to protect digital systems and data"
+  },
+  {
+    "id": 76,
+    "skill": "Collaborating with external communities"
+  },
+  {
+    "id": 77,
+    "skill": "Communicating ideas for public impact"
+  },
+  {
+    "id": 78,
+    "skill": "Working across diverse social or cultural settings"
+  },
+  {
+    "id": 79,
+    "skill": "Facilitating inclusive dialogue or engagement"
+  },
+  {
+    "id": 80,
+    "skill": "Managing stress and setbacks constructively"
+  },
+  {
+    "id": 81,
+    "skill": "Staying focused and motivated in changing conditions"
+  },
+  {
+    "id": 82,
+    "skill": "Taking ownership of your time and priorities"
+  },
+  {
+    "id": 83,
+    "skill": "Maintaining momentum during uncertainty or transition"
+  }
+]
