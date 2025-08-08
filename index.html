@@ -221,7 +221,7 @@
     <button id="reset">Start Over</button>
   </div>
  <div id="instructions">
-  <h2 id="step-title">Value Card Sort Activity: Select the values that resonate with you most.</h2>
+  <h2 id="step-title">Skills Card Sort Activity: Select the skills that resonate with you most.</h2>
     <p id="step-desc"></p>
   <p id="step-note"></p>
 
@@ -250,7 +250,7 @@
     const stepDesc = document.getElementById('step-desc');
     let allValues = [];
 
-    fetch('https://raw.githubusercontent.com/parismor/Value-card-sort/main/value_cards.json')
+    fetch('https://raw.githubusercontent.com/parismor/skills-card-sorts/main/skills_cards.json')
       .then(r => r.json())
       .then(values => {
         allValues = values.sort((a, b) => a.name.localeCompare(b.name)).reverse();
@@ -323,20 +323,20 @@ function checkProgress() {
   const stepNote  = document.getElementById('step-note');
 
   if (step === 1) {
-    stepTitle.textContent = 'Value Card Sort Activity: Select the values that resonate with you most.';
-    stepDesc.innerHTML = 'For this first step, aim to keep at least 20 values.<br>This will help you have enough value cards to sort through in the next rounds.';
+    stepTitle.textContent = 'Skills Card Sort Activity: Select the Skills that resonate with you most.';
+    stepDesc.innerHTML = 'For this first step, aim to keep at least 20 skills.<br>This will help you have enough skill cards to sort through in the next rounds.';
     stepNote.innerHTML =  'Click the right side of a card or drag it to the right pile to keep it.<br>Click the left side or drag it to the left pile to discard it.';
   } else if (step === 2) {
-    stepTitle.textContent = 'Your Top 15–20 Values';
-    stepDesc.textContent = 'Now, from your selected pile of cards, choose your top 15–20 values.';
+    stepTitle.textContent = 'Your Top 15–20 Skills';
+    stepDesc.textContent = 'Now, from your selected pile of cards, choose your top 15–20 skills.';
     stepNote.innerHTML = '';
   } else if (step === 3) {
-    stepTitle.textContent = 'Your Top 8–10 Values';
-    stepDesc.textContent = 'Time to dig deeper. Choose your top 8–10 values.';
+    stepTitle.textContent = 'Your Top 8–10 Skills';
+    stepDesc.textContent = 'Time to dig deeper. Choose your top 8–10 skills.';
     stepNote.innerHTML = '';
   } else if (step === 4) {
-    stepTitle.textContent = 'Your Top 3–5 Values';
-    stepDesc.textContent = 'In this final step, we ask you to think about your selected values again and choose the most important and non-negotiable 3–5 values. Once ready, click Save and Export to get a copy of your top-selected values.';
+    stepTitle.textContent = 'Your Top 3–5 Skills';
+    stepDesc.textContent = 'In this final step, we ask you to think about your selected skills again and choose the most important and non-negotiable 3–5 skills. Once ready, click Save and Export to get a copy of your top-selected skills.';
     stepNote.innerHTML = '';
   }
 
